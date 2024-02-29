@@ -6,7 +6,7 @@ I am studying for a B.S. in Computer Science in Vanderbilt University. I expect 
 
 ### <a href="https://github.com/DavidHuang2002/ifam-attendance-portal">  I-FAM Events and Attendance Portal </a>
 
-A web platform has both a public front that will allow the organization International Family to post their events and allow participants to RSVP, as well as an admin portal to allow event organizers to take attendance and see analytics about past attendances. Building using Next.js + Firebase.
+This is a web platform with both a public website that will allow the organization International Family to post their events and allow participants to RSVP, as well as an admin portal to allow event organizers to take attendance and see analytics about past attendance. Building using Next.js + Firebase.
 
 ## Projects I have built
 
