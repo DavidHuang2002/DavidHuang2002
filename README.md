@@ -1,7 +1,7 @@
 # Hi there 👋 I am David
 
 I am studying for a B.S. in Computer Science in Vanderbilt University. I expect to graduate in Spring, 2026.
-
+<!--
 ## Projects I am working on
 
 ### <a href="https://github.com/DavidHuang2002/ifam-attendance-portal">  I-FAM Events and Attendance Portal </a>
@@ -22,7 +22,7 @@ The backend is a microservice built with .NET framework, containerized with Dock
 <a href="https://github.com/DavidHuang2002/ifam-attendance-portal">  Front-end </a>
 
 A simple Vue.js front-end for the platform.
-
+-->
 
 
 <!--
