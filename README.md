@@ -1,6 +1,6 @@
 # Hi there 👋 I am David
 
-I am studying for a B.S. in Computer Science in Vanderbilt University. I expect to graduate in Spring, 2026.
+I am studying for a B.S. in Computer Science in Vanderbilt University. I expect to graduate in Spring, 2026. You can see more about me on <a href="https://www.dahuang.dev/">my website</a>
 <!--
 ## Projects I am working on
 
