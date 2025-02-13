@@ -2,7 +2,7 @@
 
 I am studying for a B.S. in Computer Science in Vanderbilt University. You can see more about me on <a href="https://www.dahuang.dev/">my website</a>
 
-
+<!--
 <div>
     <a href="https://github.com/DavidHuang2002">
         <img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api?username=DavidHuang2002&show_icons=true&theme=transparent&layout=compact&card_width=400" />
@@ -18,7 +18,7 @@ I am studying for a B.S. in Computer Science in Vanderbilt University. You can s
         <img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api/top-langs/?username=DavidHuang2002&layout=compact&hide=vue,php&card_width=400" />
     </a>
 </div>
-
+-->
 <!--
 ## Projects I am working on
 
