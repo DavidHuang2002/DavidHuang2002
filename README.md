@@ -2,8 +2,7 @@
 
 I am studying for a B.S. in Computer Science in Vanderbilt University. You can see more about me on <a href="https://www.dahuang.dev/">my website</a>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## :zap: Recent Activity
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
