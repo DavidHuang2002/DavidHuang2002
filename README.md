@@ -3,7 +3,7 @@
 I am studying for a B.S. in Computer Science in Vanderbilt University. You can see more about me on <a href="https://www.dahuang.dev/">my website</a>
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 <div>
     <a href="https://github.com/DavidHuang2002">
