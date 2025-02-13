@@ -1,6 +1,24 @@
 # Hi there 👋 I am David
 
 I am studying for a B.S. in Computer Science in Vanderbilt University. You can see more about me on <a href="https://www.dahuang.dev/">my website</a>
+
+
+<div>
+    <a href="https://github.com/stevenysy">
+        <img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api?username=stevenysy&show_icons=true&theme=transparent&layout=compact&card_width=400" />
+    </a>
+</div>
+
+<div>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAKCAQAAADf2/zBAAAADUlEQVR42mNkYGDEjQAAwwALF34EvQAAAABJRU5ErkJggg==">
+</div>
+
+<div>
+    <a href="https://github.com/stevenysy">
+        <img align="top" src="https://github-readme-stats-livid-mu.vercel.app/api/top-langs/?username=stevenysy&layout=compact&hide=vue,php&card_width=400" />
+    </a>
+</div>
+
 <!--
 ## Projects I am working on
 
