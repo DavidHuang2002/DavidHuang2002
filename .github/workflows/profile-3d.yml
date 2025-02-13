@@ -6,6 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
+
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
@@ -22,3 +23,7 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+
+  job-name:
+    permissions:
+      contents: write
