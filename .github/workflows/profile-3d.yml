@@ -1,12 +1,11 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 6 AM CST
-    - cron: "0 6 * * *"
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
-
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
@@ -23,7 +22,3 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-
-  job-name:
-    permissions:
-      contents: write
