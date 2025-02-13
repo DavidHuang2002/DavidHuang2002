@@ -4,6 +4,8 @@ I am studying for a B.S. in Computer Science in Vanderbilt University. You can s
 
 ## :zap: Recent Activity
 
+<!--START_SECTION:activity-->
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
