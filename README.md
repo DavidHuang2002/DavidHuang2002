@@ -5,7 +5,7 @@ I am studying for a B.S. in Computer Science in Vanderbilt University. You can s
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/ChangePlusPlusVandy/NAMI/pull/28) in [ChangePlusPlusVandy/NAMI](https://github.com/ChangePlusPlusVandy/NAMI)
+1. ❗ Opened issue [#553](https://github.com/aipotheosis-labs/aci/issues/553) in [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci)
 <!--END_SECTION:activity-->
 
 
