@@ -5,7 +5,7 @@ I am studying for a B.S. in Computer Science in Vanderbilt University. You can s
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#553](https://github.com/aipotheosis-labs/aci/issues/553) in [aipotheosis-labs/aci](https://github.com/aipotheosis-labs/aci)
+1. ❗ Opened issue [#2](https://github.com/darinkishore/Inbox-MCP/issues/2) in [darinkishore/Inbox-MCP](https://github.com/darinkishore/Inbox-MCP)
 <!--END_SECTION:activity-->
 
 
