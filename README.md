@@ -5,7 +5,7 @@ I am studying for a B.S. in Computer Science in Vanderbilt University. You can s
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [Vanderbilt-VR-2025/Memorial](https://github.com/Vanderbilt-VR-2025/Memorial)
+1. 🎉 Merged PR [#2](https://github.com/Vanderbilt-VR-2025/Memorial/pull/2) in [Vanderbilt-VR-2025/Memorial](https://github.com/Vanderbilt-VR-2025/Memorial)
 <!--END_SECTION:activity-->
 
 
