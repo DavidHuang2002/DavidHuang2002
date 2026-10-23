@@ -5,7 +5,7 @@ I am studying for a B.S. in Computer Science in Vanderbilt University. You can s
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/DavidHuang2002/auto-note-organizer/pull/3) in [DavidHuang2002/auto-note-organizer](https://github.com/DavidHuang2002/auto-note-organizer)
+1. 🗣 Commented on [#17894](https://github.com/yt-dlp/yt-dlp/issues/17894#issuecomment-6357721403) in [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 <!--END_SECTION:activity-->
 
 
